@@ -1,6 +1,8 @@
 # PrimeiroProjeto
- Versionamento de códigos
+ Versionamento de códi
  
-Repositório criado com o curso do Curso em video com guanabara.
-Essa linha eu editei diretamente pelo site !
-Guanabara dá várias dicas.
+ repositorio criado com sucesso
+ 
+ Gustavo G dá várias dicas
+ 
+ Estou amando o curso
